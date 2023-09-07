@@ -21,6 +21,10 @@ map_list = [
     "map_10x10",
     "map_aoba00",
     "map_aoba01",
+    "map_Hyakumannbenn",
+    "map_Sijo",
+    "map_Sibuya",
+    "map_Osaka",
 ]
 
 for an, map_name in product(agent_num, map_list):
@@ -117,6 +121,10 @@ map_list = [
     "map_10x10",
     "map_aoba00",
     "map_aoba01",
+    "map_Hyakumannbenn",
+    "map_Sijo",
+    "map_Sibuya",
+    "map_Osaka",
 ]
 
 for map_name in map_list:
